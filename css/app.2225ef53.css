@@ -348,6 +348,7 @@ fieldset[data-v-1d215c44] {
   .grid[data-v-d328a46e] {
     width: 100%;
     height: 100%;
+    /* height: 50%; */
     position: absolute;
     display: grid;
     grid-auto-flow: row dense
@@ -1033,7 +1034,7 @@ fieldset[data-v-1d215c44] {
     width: 300px
   }
   
-  .wat[data-v-21df1ba1] {
+  /* .wat[data-v-21df1ba1] {
     font-family: Caveat, cursive;
     font-size: 22px;
     margin-top: 18px;
@@ -1041,7 +1042,7 @@ fieldset[data-v-1d215c44] {
     opacity: .9;
     font-weight: 400;
     cursor: pointer
-  }
+  } */
   
   @media screen and (max-width:700px) {
     aside[data-v-21df1ba1] {
